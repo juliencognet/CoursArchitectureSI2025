@@ -38,16 +38,16 @@ https://forms.office.com/r/WPzrYSc7VU
 
 ## Choix des sujets d'étude 
 
-* E1 - Système de gestion de flotte de véhicules : Concevoir une architecture pour suivre et gérer une flotte de véhicules en temps réel, incluant la géolocalisation, la maintenance prédictive et l'optimisation des itinéraires.
-* E2 - Plateforme de e-commerce : Développer une architecture pour une plateforme de vente en ligne, incluant la gestion des produits, des commandes, des paiements et des recommandations personnalisées.
-* E3 - Système de gestion hospitalière : Créer une architecture pour un système de gestion des dossiers médicaux, des rendez-vous, et des prescriptions, avec des fonctionnalités de télémédecine.
-* E4 - Application de réseau social : Concevoir une architecture pour une application de réseau social, incluant la gestion des profils, des publications, des commentaires et des notifications en temps réel.
-* E5 - Système de gestion de l'énergie : Élaborer une architecture pour un système de gestion de l'énergie dans les bâtiments, incluant la collecte de données des capteurs, l'analyse et l'optimisation de la consommation énergétique.
-* E6 - Plateforme de streaming vidéo : Développer une architecture pour une plateforme de streaming vidéo, incluant la gestion des contenus, la diffusion en direct, et les recommandations basées sur les préférences des utilisateurs.
-* E7 - Système de gestion des ressources humaines : Créer une architecture pour un système de gestion des ressources humaines, incluant la gestion des employés, des salaires, des performances et des formations.
-* E8 - Système de gestion de la chaîne d'approvisionnement : Concevoir une architecture pour un système de gestion de la chaîne d'approvisionnement, incluant la gestion des stocks, des commandes, et des livraisons.
-* E9 - Application de santé et bien-être : Élaborer une architecture pour une application de suivi de la santé et du bien-être, incluant la collecte de données des utilisateurs, l'analyse et les recommandations personnalisées.
-* E10 - Système de gestion de l'éducation : Développer une architecture pour un système de gestion de l'éducation, incluant la gestion des cours, des étudiants, des évaluations et des ressources pédagogiques.
+* E1 - **Système de gestion de flotte de véhicules** : Concevoir une architecture pour suivre et gérer une flotte de véhicules en temps réel, incluant la géolocalisation, la maintenance prédictive et l'optimisation des itinéraires.
+* E2 - **Plateforme de e-commerce** : Développer une architecture pour une plateforme de vente en ligne, incluant la gestion des produits, des commandes, des paiements et des recommandations personnalisées.
+* E3 - **Système de gestion hospitalière** : Créer une architecture pour un système de gestion des dossiers médicaux, des rendez-vous, et des prescriptions, avec des fonctionnalités de télémédecine.
+* E4 - **Application de réseau social** : Concevoir une architecture pour une application de réseau social, incluant la gestion des profils, des publications, des commentaires et des notifications en temps réel.
+* E5 - **Système de gestion de l'énergie** : Élaborer une architecture pour un système de gestion de l'énergie dans les bâtiments, incluant la collecte de données des capteurs, l'analyse et l'optimisation de la consommation énergétique.
+* E6 - **Plateforme de streaming vidéo** : Développer une architecture pour une plateforme de streaming vidéo, incluant la gestion des contenus, la diffusion en direct, et les recommandations basées sur les préférences des utilisateurs.
+* E7 - **Système de gestion des ressources humaines** : Créer une architecture pour un système de gestion des ressources humaines, incluant la gestion des employés, des salaires, des performances et des formations.
+* E8 - **Système de gestion de la chaîne d'approvisionnement** : Concevoir une architecture pour un système de gestion de la chaîne d'approvisionnement, incluant la gestion des stocks, des commandes, et des livraisons.
+* E9 - **Application de santé et bien-être** : Élaborer une architecture pour une application de suivi de la santé et du bien-être, incluant la collecte de données des utilisateurs, l'analyse et les recommandations personnalisées.
+* E10 - **Système de gestion de l'éducation** : Développer une architecture pour un système de gestion de l'éducation, incluant la gestion des cours, des étudiants, des évaluations et des ressources pédagogiques.
 
 🔻
 

@@ -1,5 +1,5 @@
 # Cours Architecture de Systèmes d’Information
-**Travaux Dirigés 2024 - Julien COGNET**
+**Travaux Dirigés 2025 - Julien COGNET**
 
 
 > 💬 Votre travail va remplir une grande partie de votre vie, et la seule façon d'être vraiment satisfait est de faire ce que vous croyez être un grand travail. Et la seule façon de faire un grand travail est d'aimer ce que vous faites.
@@ -52,4 +52,35 @@ https://forms.office.com/r/WPzrYSc7VU
 🔻
 
 ## A3 - Business Motivation Model
+### Objectifs du TD
+*	Découvrir le langage de modélisation Archimate
+*	Comprendre les rudiments de l’architecture des motivations
+*	S’entraîner au questionnement à base de questions ouvertes et à l’écoute active
+*	Prendre de la hauteur de vue par rapport à un problème
+### Description de l’activité
+* Donnez un nom à l'entreprise qui veut implémenter le sujet que vous avez choisi
+*	Ouvrir https://app.diagrams.net/
+*	Créez un nouveau diagramme à partir du modèle « Business Motivation Model Sample.drawio » grâce à l’entrée de menu File > Open from … > Device
+* Définissez quelle est la vision, quelles sont les missions de l'entreprise qui implémente le projet que vous avez choisi et les objectifs qu'elle pourrait se fixer
+
+🔻
+
+## A4 – Analyse et choix des principes d’architecture les plus appropriés à notre cas fil rouge
+### Description de l’activité
+*	Parcourir le catalogue de principes d’architecture proposé en annexe du support de cours
+*	Choisir 3 principes d’architecture qui s’appliquent particulièrement à votre projet
+*	Expliquez pourquoi vous avez choisi ce principe d’architecture
+
+🔻
+
+## A5 – Architecture de données - Concevoir le modèle logique de données relationnelles
+### Objectifs du TD
+*	Apprendre à réaliser une modélisation de base de données
+### Description de l’activité
+* Déterminer quelles sont les 5 à 10 entités du domaine que vous étudiez. 
+* Modéliser les entités de votre domaine avec https://www.drawdb.app/editor 
+* Modélisez aussi les liens entre ces entités en suivant les règles apprises en cours
+
+
+
 

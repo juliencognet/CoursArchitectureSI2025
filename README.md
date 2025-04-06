@@ -18,4 +18,4 @@
 * Cette activité se fait en groupe et se déroule en 2 parties. 
 * Ouvrir l'exemple issu de l'outil de capitalisation d'architecture d'entreprise EssentialViewer open source disponible à l'adresse suivante https://essentialviewer.com
 * Nous allons nous intéresser au domaine de la collecte de données d'énergie en europe (Collect Meter Data - EU). Pour explorer ce processus métier, vous pouvez vous diriger vers la vue "Business Process Summary".
-** A quelle capacité métier est reliée ce processus métier ? 
+ * A quelle capacité métier est reliée ce processus métier ? 

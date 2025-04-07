@@ -85,7 +85,8 @@ https://forms.office.com/r/WPzrYSc7VU
 ### Objectifs du TD
 *	Apprendre à réaliser une modélisation de base de données
 ### Description de l’activité
-* Déterminer quelles sont les 5 à 10 entités du domaine que vous étudiez. 
+* Choisir un processus métier du domaine étudié
+* Déterminer quelles sont les 8 à 10 entités les plus importantes du domaine que vous étudiez. 
 * Modéliser les entités de votre domaine avec https://www.drawdb.app/editor 
 * Modélisez aussi les liens entre ces entités en suivant les règles apprises en cours
 ### Quelques conseils d'utilisation

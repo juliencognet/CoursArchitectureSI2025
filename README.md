@@ -88,6 +88,10 @@ https://forms.office.com/r/WPzrYSc7VU
 * Déterminer quelles sont les 5 à 10 entités du domaine que vous étudiez. 
 * Modéliser les entités de votre domaine avec https://www.drawdb.app/editor 
 * Modélisez aussi les liens entre ces entités en suivant les règles apprises en cours
+### Quelques conseils d'utilisation
+* Pour les types de données, vous pouvez vous limiter à VARCHAR (chaînes de caractères), INTEGER (entier) et DATE (date)
+* Pour créer une relation, commencez par créer la colonne de clé étrangère (dans la table source) puis faites en drag and drop entre le point bleu de cette colonne et le point bleu de la colonne ID de la clé primaire de la table destination
+* Vous pouvez vous inspirer du fichier "Exemple_Modele_Donnee_Bibliotheque.dbml" joint dans le dépôt Git (en haut de cette page)
 
 🔻
 

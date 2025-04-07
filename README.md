@@ -96,12 +96,24 @@ https://forms.office.com/r/WPzrYSc7VU
 
 🔻
 
-## A7 - Architecture logicielle 
-### Description de l'activité (à compléter)
-* Make or buy - matrice de choix
-* Recherche de solutions potentielles
-* Choix des solutions de persistance
-* Choix d'architecture globale : monolithe / microservice / data streaming
-* Choix make - décomposition en différents modules 
+## A7 - Architecture logicielle - Dessiner les 2 premiers niveaux (contexte et container) de l'approche C4 de votre cas d'usage
+### Description de l'activité 
+#### Niveau contexte
+* Votre application doit s'interfacer à au moins 3 autres applications / dispositifs externes / sources de données externes. Faites en la liste et choisissez les 3 dépendances les plus critiques.
+* Votre aplication a des rôles principaux (à minima administrateur et d'autres rôles utilisateurs).
+* Dessinez votre diagramme de contexte, positionnez votre système d'information au centre du diagramme puis positionnez les dépendances externes et les rôles autour de votre SI.
+* Nommez les relations entre ces différentes éléments.
+#### Niveau container
+* C'est le moment de choisir les moyens de persistance (base de données, stockage fichier...). Quel type de base de données choisissez-vous (RDBMS, NoSQL, stockage...) ?
+* Partez vous sur une persistance hybride ? Combien de sources de données voulez-vous définir ?
+* Ensuite, il est temps de décomposer votre SI en différents modules. Quelles sont les grandes familles fonctionnelles de votre application ? Quels sont les liens entre ces différents modules ?
+* Replacez les dépendances externes et les utilisateurs en périphérie de votre SI, puis positionnez les modules identifiés et les bases de données au sein de votre SI.
 
+## A8 - Choisir le meilleur mode de communication entre chaque brique de votre logiciel et au moins 3 de ses interfaces externes
+### Description de l'activité 
+* Repartez du diagramme de containers réalisé à l’étape précédente et définissez quelle est la meilleure solution d’échange entre chaque module et vers chaque dépendance externe. 
+* Choisissez un code couleur pour décrire les solutions d'échange identifiées
+* Numérotez vos relations, puis dans un tableau à part reportez le numéro de la relation, le type d'échange réalisé, le volume de données estimé, la fréquence envisagée, la solution d'échange retenue et la justification associée
+
+🔻
 

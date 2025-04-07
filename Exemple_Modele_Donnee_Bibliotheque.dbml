@@ -1,6 +1,6 @@
 Table livre {
 	id integer [ pk, increment, not null, unique ]
-	libellé varchar
+	libelle varchar
 }
 
 Table auteur {
@@ -29,7 +29,7 @@ Table emprunteur {
 	prenom varchar
 }
 
-Table livres_empruntés {
+Table livres_empruntes {
 	id integer [ pk, increment, not null, unique ]
 	fk_livre integer
 	fk_emprunt integer
@@ -47,10 +47,10 @@ Ref fk_emprunt_emprunteur_emprunteur {
 	emprunt.emprunteur - emprunteur.id [ delete: no action, update: no action ]
 }
 
-Ref fk_livres_empruntés_fk_emprunt_emprunt {
-	livres_empruntés.fk_emprunt - emprunt.id [ delete: no action, update: no action ]
+Ref fk_livres_empruntes_fk_emprunt_emprunt {
+	livres_empruntes.fk_emprunt - emprunt.id [ delete: no action, update: no action ]
 }
 
-Ref fk_livres_empruntés_fk_livre_livre {
-	livres_empruntés.fk_livre - livre.id [ delete: no action, update: no action ]
+Ref fk_livres_empruntes_fk_livre_livre {
+	livres_empruntes.fk_livre - livre.id [ delete: no action, update: no action ]
 }

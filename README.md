@@ -89,6 +89,14 @@ https://forms.office.com/r/WPzrYSc7VU
 * Modéliser les entités de votre domaine avec https://www.drawdb.app/editor 
 * Modélisez aussi les liens entre ces entités en suivant les règles apprises en cours
 
+🔻
 
+## A7 - Architecture logicielle 
+### Description de l'activité (à compléter)
+* Make or buy - matrice de choix
+* Recherche de solutions potentielles
+* Choix des solutions de persistance
+* Choix d'architecture globale : monolithe / microservice / data streaming
+* Choix make - décomposition en différents modules 
 
 

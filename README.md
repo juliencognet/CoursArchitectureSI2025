@@ -64,8 +64,16 @@ https://forms.office.com/r/WPzrYSc7VU
 * Définissez quelle est la vision, quelles sont les missions de l'entreprise qui implémente le projet que vous avez choisi et les objectifs qu'elle pourrait se fixer
 
 🔻
+## A4 – Définition des critères et objectifs de qualité non fonctionnels
+### Description de l’activité
+*	Définir quels sont les 3 critères de qualité non fonctionnels les plus importants pour votre cas d'étude
+*	Définir un indicateur personnalisé
+*	Définir une cible pour cet indicateur
+*	Justifiez vos choix
 
-## A4 – Analyse et choix des principes d’architecture les plus appropriés à notre cas fil rouge
+🔻
+
+## A5 – Analyse et choix des principes d’architecture les plus appropriés à notre cas fil rouge
 ### Description de l’activité
 *	Parcourir le catalogue de principes d’architecture proposé en annexe du support de cours
 *	Choisir 3 principes d’architecture qui s’appliquent particulièrement à votre projet
@@ -73,7 +81,7 @@ https://forms.office.com/r/WPzrYSc7VU
 
 🔻
 
-## A5 – Architecture de données - Concevoir le modèle logique de données relationnelles
+## A6 – Architecture de données - Concevoir le modèle logique de données relationnelles
 ### Objectifs du TD
 *	Apprendre à réaliser une modélisation de base de données
 ### Description de l’activité

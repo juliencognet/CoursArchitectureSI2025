@@ -135,4 +135,3 @@ https://forms.office.com/r/WPzrYSc7VU
    * Questions à poser aux interlocuteurs métier lors des phases d'étude de l'architecture stratégique et fonctionnelle
    * Critères et moyens de mesure
    * Quelle solution d'architecture applicative (logicielle et/ou données) apporter ?
-   * Quelle solution d'architecture technique apporter ?

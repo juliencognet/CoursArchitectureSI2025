@@ -117,3 +117,22 @@ https://forms.office.com/r/WPzrYSc7VU
 
 🔻
 
+## A9 - Exposé sur les critères de qualité et leur impact sur l'architecture
+### Description de l'activité
+    Les groupes se répartissent les critères de qualité suivants (chaque critère de qualité doit être pris au moins une fois):
+        Adéquation fonctionnelle
+        Performance
+        Robustesse
+        Maintenabilité / évolutivité
+        Exploitabilité
+        Portabilité
+        Empreinte écologique
+        Sécurité
+    Votre exposé durera 10min et sera présenté le 14 avril. Il sera évalué avec une note sur le fond globale pour tout le groupe et une note sur la forme de la présentation orale individuelle.
+    Tous les membres du groupe doivent donc présenter une partie de l'exposé à l'oral.
+    Votre exposé doit suivre le plan suivant:
+        Importance de la problématique (pourquoi faut-il se soucier de ...)
+        Questions à poser aux interlocuteurs métier lors des phases d'étude de l'architecture stratégique et fonctionnelle
+        Critères et moyens de mesure
+        Quelle solution d'architecture applicative (logicielle et/ou données) apporter ?
+        Quelle solution d'architecture technique apporter ?

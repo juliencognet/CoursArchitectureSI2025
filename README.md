@@ -128,7 +128,7 @@ https://forms.office.com/r/WPzrYSc7VU
    * Portabilité
    * Empreinte écologique
    * Sécurité
-* Votre exposé durera 10min et sera présenté le 14 avril. Il sera évalué avec une note sur le fond globale pour tout le groupe et une note sur la forme de la présentation orale individuelle.
+* Votre exposé durera 10min et sera présenté le 14 mai. Il sera évalué avec une note sur le fond globale pour tout le groupe et une note sur la forme de la présentation orale individuelle.
 * Tous les membres du groupe doivent donc présenter une partie de l'exposé à l'oral.
 * Votre exposé doit suivre le plan suivant:
    * Importance de la problématique (pourquoi faut-il se soucier de ...)

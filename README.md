@@ -135,3 +135,19 @@ https://forms.office.com/r/WPzrYSc7VU
    * Questions à poser aux interlocuteurs métier lors des phases d'étude de l'architecture stratégique et fonctionnelle
    * Critères et moyens de mesure
    * Quelle solution d'architecture applicative (logicielle et/ou données) apporter ?
+
+🔻
+
+## A10 - A vous de concevoir l’architecture technique de votre solution
+### Description de l'activité
+* Dessiner le schéma d’architecture (format libre) 
+* Eléments à ne pas oublier:
+   * Placer les composants réseaux essentiels (internet, routeur, switch, firewall...)
+   * Choix de bases de données
+   * Positionner les middleware (BDD, Bus de message, API Gateway…)
+   * Penser à la redondance
+   * Zones de sécurité réseau
+   * Distinguer les zones Front-End / Back-End
+   * Distinguer le périmètre interne du périmètre externe
+* Hors schéma : préciser le mode d’hébergement (Bare metal, Virtual Machine, Docker, K8s) et la raison associée
+

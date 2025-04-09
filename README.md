@@ -138,7 +138,14 @@ https://forms.office.com/r/WPzrYSc7VU
 
 🔻
 
-## A10 - A vous de concevoir l’architecture technique de votre solution
+## A10 - Définissez le niveau de service attendu de votre solution informatique
+### Description de l'activité
+* Définir des cibles de SLA (Service Level Agreement) pour 3 de vos services métier rendus,
+* Justifier votre réponse
+
+🔻
+
+## A11 - A vous de concevoir l’architecture technique de votre solution
 ### Description de l'activité
 * Dessiner le schéma d’architecture (format libre) 
 * Eléments à ne pas oublier:
